@@ -107,7 +107,7 @@ directory: /etc/walletd
 autoOpenWebUI: true
 http:
   address: :9980
-  password: sia is cool
+  password: kmd is cool
   publicEndpoints: false # when true, auth will be disabled on endpoints that should be publicly accessible when running walletd as a service
 consensus:
   network: mainnet
